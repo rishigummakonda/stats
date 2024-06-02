@@ -24,13 +24,9 @@ The "Statistical Learning with Python" course covers key concepts and practical 
 
 ## Repository Structure
 
-This repository is organized as follows:
+This repository is organized as follows:.
 
-- **Lectures/**: Contains lecture notes and slides.
-- **Assignments/**: Includes homework assignments and solutions.
-- **Projects/**: Repository for course projects and related materials.
 - **Datasets/**: Contains datasets used throughout the course.
-- **Notebooks/**: Jupyter notebooks with code examples and exercises.
 - **Mini_Projects/**: Personalized mini projects to showcase skills learned in each chapter and lab.
 
 ## Personalized Mini Projects
