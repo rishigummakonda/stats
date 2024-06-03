@@ -1,4 +1,5 @@
 ### Repository Description
+
 This repository contains materials, assignments, and personalized mini projects for the "Statistical Learning with Python" course offered by Stanford University on edX. The personalized mini projects are designed to showcase the skills learned in each chapter and lab, providing a practical demonstration of the concepts covered in the course.
 
 # Statistical Learning with Python
@@ -24,13 +25,14 @@ The "Statistical Learning with Python" course covers key concepts and practical 
 
 ## Repository Structure
 
-This repository is organized as follows:.
+This repository is organized as follows:
 
-- **Datasets/**: Contains datasets used throughout the course.
-- **Mini_Projects/**: Personalized mini projects to showcase skills learned in each chapter and lab.
+- **data/**: Contains datasets used throughout the course.
+- **labs/**: Lab notebooks and assignments.
+- **mini_projects/**: Personalized mini projects to showcase skills learned in each chapter and lab.
+- **requirements.txt**: Lists the Python packages required to run the notebooks and projects.
+- **config.ini**: Configuration file for storing database connections, API keys, and other settings.
 
 ## Personalized Mini Projects
 
-In the **Mini_Projects/** directory, you will find personalized mini projects designed to demonstrate the skills and concepts learned in each chapter and lab. These projects serve as practical applications of the theoretical knowledge gained throughout the course. Each mini project is crafted to reflect my understanding and mastery of the course material, providing concrete examples of how statistical learning techniques can be applied using Python, particularly in the realm of public policy.
-
----
+In the **mini_projects/** directory, you will find personalized mini projects designed to demonstrate the skills and concepts learned in each chapter and lab. These projects serve as practical applications of the theoretical knowledge gained throughout the course. Each mini project is crafted to reflect my understanding and mastery of the course material, providing concrete examples of how statistical learning techniques can be applied using Python, particularly in the realm of public policy.
